@@ -1,0 +1,25 @@
+input, textarea {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .input-valid {
+    border: 2px solid green;
+  }
+  
+  .input-invalid {
+    border: 2px solid red;
+  }
+  
+  .error-text {
+    color: red;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    height: 16px;
+  }
